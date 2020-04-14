@@ -3,7 +3,7 @@
 #### _Take care of two plants. Or else! | April 14th. 2020_
 
 #### By _** Jeremy Kale Padot Patrick Delaney and Ben Thom**_
-![Landing Page Preview](webpack-boilerplate/img/giphy.gif)
+![Landing Page Preview](/img/giphy.gif)
 
 ## Description
 
