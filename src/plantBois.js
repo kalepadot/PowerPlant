@@ -52,10 +52,17 @@ const stateChanger = storeState();
 // USER LOGIC
 
 $(document).ready(function() {
-
 // This function has side effects because we are using jQuery. Manipulating the DOM will always be a side effect.
   $('#blueFood').click(function() {
     const newState = stateChanger(blueFood);
+    $('#soil-value').text(newState.soil);
+  });
+  $('#greenFood').click(function() {
+    const newState = stateChanger(greenFood);
+    $('#soil-value').text(newState.soil);
+  });
+  $('#yuckyFood').click(function() {
+    const newState = stateChanger(yuckyFood);
     $('#soil-value').text(newState.soil);
   });
 });
