@@ -1,17 +1,13 @@
-# _Webpack Boilerplate_
+# _Power Plant_
 
-#### _This site comes with the all basic parts to get you started making a single page website with webpack fast. | Feb 5th. 2020_
+#### _Take care of two plants. Or else! | April 14th. 2020_
 
-#### By _** Dusty McCord**_
-[link to demo site coming](https://dustatron.github.io/webpack-boilerplate/)
+#### By _** Jeremy Kale Padot Patrick Delaney and Ben Thom**_
+![Landing Page Preview](webpack-boilerplate/img/giphy.gif)
 
 ## Description
 
-There is a pre-built two input form with a submit button. There is also a simple jQuery function that will console.log when the submit button is clicked.
-
-The .gitignore file is a template for mac osx but a link is provided to get a template for any operating system. 
-
-[create a .gitignore template for your os here](https://www.gitignore.io/)
+Feed. Water. Light. K I L L . Your plants using pure functions. 
 
 ## Setup/Installation Requirements
 
@@ -68,7 +64,7 @@ git init
 
 Behavoir | Input | Output
 :---------|:------:|:------:
-|1 - The program will take in a simple input and return the input | 'hello' | 'hello' |
+
 
 
 ## Support 
@@ -89,6 +85,7 @@ _The software is provided as is. It might work as expected - or not. Use at your
 * [Uglifyjs](https://www.uglifyjs.net/)
 * [Jest](https://jestjs.io/)
 * [dotenv](#)
+* [React]
 
 ## Environmental Variables
 
@@ -135,5 +132,5 @@ const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${pr
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright (c) 2020 **_Dusty McCord_**
+Copyright (c) 2020 **_Jeremy Patrik and Ben_**
 
